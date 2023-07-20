@@ -18,6 +18,7 @@ function App() {
             //sera considerado como children, es decir sera enviado como props.children al componente hijo de App que es Boton y 
             //posteriormente renderizado
           }
+          <Boton>+</Boton>
         </div>
         <div className='fila'></div>
         <div className='fila'></div>
